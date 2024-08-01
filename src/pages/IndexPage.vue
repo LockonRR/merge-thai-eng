@@ -103,6 +103,7 @@ export default {
         id.val = null
         age.value = null
         accept.value = false
+        
       }
     }
   }
